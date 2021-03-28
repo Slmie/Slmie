@@ -1,5 +1,7 @@
 ### Hi this Slmie👋
 
+<p align="center">这是第<img src="https://profile-counter.glitch.me/Slmie/count.svg" />次访问</p>
+
 [![Slmie's github stats](https://github-readme-stats.vercel.app/api?username=Slmie)](https://github.com/Slmie)
 <!--
 **Slmie/Slmie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
